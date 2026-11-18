@@ -1,0 +1,6 @@
+# ТЕСТОВЫЙ РЕЖИМ: сайт закрыт от поисковиков.
+# Перед запуском замените две строки ниже на:
+#   Allow: /
+#   Sitemap: https://your-domain.ru/sitemap.xml
+User-agent: *
+Disallow: /
